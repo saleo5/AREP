@@ -1,6 +1,6 @@
 # Stellar Luminosity - Linear and Polynomial Regression
 
-Machine Learning Bootcamp - Digital Transformation and Enterprise Architecture
+Machine Learning Bootcamp - Digital Transformation and Enterprise Architecture  
 Samuel Leonardo Albarracin Vergara
 
 ## Overview
